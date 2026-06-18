@@ -31,7 +31,7 @@ ACIS runs continuous simulations to model threat propagation, response timelines
 
 An agentic AI layer analyzes dashboard outputs, immune responses, environmental stability, and diagnostic signals in real time. It adapts insights dynamically, enabling context‑aware defensive guidance, scenario evaluation, and autonomous refinement of immune strategies.
 
-## thical, Explainable, and Reversible Operations:
+## Ethical, Explainable, and Reversible Operations:
 
 ACIS enforces strict safety constraints, ensuring all autonomous actions are explainable, reversible, and aligned with policy. This guarantees trustworthy operation in high‑stakes environments where transparency and accountability are essential.
 
