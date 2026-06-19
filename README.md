@@ -41,7 +41,7 @@ ACIS enforces strict safety constraints, ensuring all autonomous actions are exp
 
 - Python
 
-- TypeScript
+- JavaScript
 
 - JSON
 
@@ -77,7 +77,7 @@ ACIS secures every defensive output—including digital antibody deployments, ru
 
 ## 3D Operational Immune Dashboard:  
 
-The system provides a browser‑based 3D operational dashboard built with TypeScript and HTML, layer to visualize the cyber immune system in real time. Threat surfaces, digital antibody deployments, behavioral patterns, and system‑wide stability indicators are displayed as interactive 3D elements that operators can inspect from multiple perspectives. TypeScript enforces strict typing for telemetry, rule‑paths, and immune‑event structures, while HTML components frame diagnostics, controls, and contextual information around the 3D environment. Before any state is rendered, each data packet is verified using the public RSA key, ensuring that all visualized actions are RS256‑authenticated, tamper‑proof, and operationally trustworthy.
+The system provides a browser‑based 3D operational dashboard built with JavaScriptand HTML, layer to visualize the cyber immune system in real time. Threat surfaces, digital antibody deployments, behavioral patterns, and system‑wide stability indicators are displayed as interactive 3D elements that operators can inspect from multiple perspectives. TypeScript enforces strict typing for telemetry, rule‑paths, and immune‑event structures, while HTML components frame diagnostics, controls, and contextual information around the 3D environment. Before any state is rendered, each data packet is verified using the public RSA key, ensuring that all visualized actions are RS256‑authenticated, tamper‑proof, and operationally trustworthy.
 
 ## LangChain + LangGraph + LangSmith Integration:  
 
